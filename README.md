@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Indigent Burials
+
+<a href="https://github.com/rudrab/Shadow" class="btn" target="_blank">View on GitHub</a>
 
 You can use the [editor on GitHub](https://github.com/IndigentBurials/IndigentBurials.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
